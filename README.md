@@ -47,5 +47,5 @@ Nesse jogo foi utilizadas:
 
 
 ## Autor
-Desenvolvido por Luan Santos da Silva.
+Desenvolvido por Luan Santos da Silva/
 Feito no SENAI-Palhoça.
